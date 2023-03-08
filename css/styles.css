@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+}
+h1,
+p {
+  text-align: center;
+  font-weight: bold;
+}
+p {
+  height: 1.5;
+}
+.croissant-photo {
+  display: block;
+  max-width: 350px;
+  margin: 30px auto;
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+div a {
+  padding: 10px;
+  margin: 0 25px;
+  color: green;
+}
