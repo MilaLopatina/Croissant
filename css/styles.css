@@ -1,13 +1,13 @@
 body {
   max-width: 100%;
-  padding: 10px;
+  padding: 5px;
   background-color: #f8e8a6;
 }
 @media (min-width: 768px) {
   .croissant-photo {
-    max-width: 500px !important;
-    margin-bottom: 30px !important;
-    margin-top: 20px !important;
+    max-width: 375px !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
   }
 }
 @media (max-width: 280px) {
@@ -17,8 +17,8 @@ body {
 }
 h1,
 p {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   text-align: center;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
@@ -36,7 +36,7 @@ p {
 }
 div {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 div a {
   padding: 10px;
